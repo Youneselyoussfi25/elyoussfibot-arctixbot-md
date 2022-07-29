@@ -1,5 +1,5 @@
-<h1 align="center">ꪶ𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓-𝐌𝐃ꫂ<br></h1>
-<P align="center">𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.</p>
+<h1 align="center">ꪶelyoussfi bot<br></h1>
+<P align="center">𝐀𝐫𝐜𝐭𝐢𝐱 × elyoussfi.</p>
 <p align="center">
   <img src="https://telegra.ph/file/12493a57962e154fb6056.jpg" width="350" height="300" />
 </p>
@@ -14,7 +14,7 @@ ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="ht
 
 ------
 
-# ```Bot Info```
+# ```معلومات عن البوت```
 <p align="center">
 <a href="https://github.com/Sibuuu07/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sibuuu07?color=red&style=flat-square"></a>
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sibuuu07/ArctixBot-MD?color=blue&style=flat-square"></a>
@@ -66,7 +66,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
-# Scan QR Code For Session
+# سكان QR بالوتساب
 [![Session](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@incarctix/Arctixinc?embed=1&output=1)
 # Deploy in Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/ArctixBot-MD/)
